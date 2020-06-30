@@ -1,5 +1,7 @@
 {
   "name": "scannyB",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
